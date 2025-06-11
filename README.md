@@ -6,32 +6,8 @@ Some parts of my project could't be fully disclosed because of the confidentiali
 
 ---
 ## Table of contents
-[workout as an employee](##a)
-[workout for personal project]
-
-
-
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ</br>
-ㅇ
-
+--
+[Professional Projects](##-a)
+[Personal Projects](##-b)
 
 ## a
