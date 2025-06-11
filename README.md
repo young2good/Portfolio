@@ -7,7 +7,7 @@ Some parts of my project could't be fully disclosed because of the confidentiali
 ---
 ## Table of contents
 --
-[Professional Projects](##-a)
+[Professional Projects](##-a) </br>
 [Personal Projects](##-b)
 
 ## a
