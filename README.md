@@ -10,23 +10,12 @@ Some parts of my project could't be fully disclosed because of the confidentiali
 - [Personal Projects](#personal-projects)
 
 ## Work Projects (Company-based)
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
-hi, how are you? <br>
 
-
-
+Projects | Date | Tools | Project Description
+---|---|---|---
+[Product Launch](https://github.com/young2good/Portfolio)|May. 2018|SQL, Python|This is about my project
+Core Loop | Jan. 2022| SQL, Python | ALL is well
 ## Personal Projects
-I am good
+Projects | Date | Tools | Project Description
+---|---|---|---
+a|b|c|d
