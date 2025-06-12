@@ -2,7 +2,7 @@
 
 Welcome to my data portfolio! <br>
 Here, I document a summary of my projects in the data field. <br>
-Some parts of my project could't be fully disclosed because of the confidentiality obligation with my companies. <br>
+Some parts of my work project could't be fully disclosed because of the confidentiality obligation with my companies. <br>
 
 ---
 ## Table of contents
@@ -15,7 +15,18 @@ Projects | Date | Tools | Project Description
 ---|---|---|---
 [Product Launch](https://github.com/young2good/manuals)|May. 2018|SQL, Python|This is about my project
 Core Loop | Jan. 2022| SQL, Python | ALL is well
+[Product Launch](https://github.com/young2good/manuals)|May. 2018|SQL, Python|This is about my project
+[Product Launch](https://github.com/young2good/manuals)|May. 2018|SQL, Python|This is about my project
+[Product Launch](https://github.com/young2good/manuals)|May. 2018|SQL, Python|This is about my project
+[Product Launch](https://github.com/young2good/manuals)|May. 2018|SQL, Python|This is about my project
+[Product Launch](https://github.com/young2good/manuals)|May. 2018|SQL, Python|This is about my project
+
 ## Personal Projects
 Projects | Date | Tools | Project Description
 ---|---|---|---
-a|b|c|d
+[Hospital](https://github.com/young2good/analysis-repo)|May. 2018|SQL, Python|This is about my project
+[Hospital](https://github.com/young2good/analysis-repo)|May. 2018|SQL, Python|This is about my project
+[Hospital](https://github.com/young2good/analysis-repo)|May. 2018|SQL, Python|This is about my project
+[Hospital](https://github.com/young2good/analysis-repo)|May. 2018|SQL, Python|This is about my project
+[Hospital](https://github.com/young2good/analysis-repo)|May. 2018|SQL, Python|This is about my project
+[Hospital](https://github.com/young2good/analysis-repo)|May. 2018|SQL, Python|This is about my project
