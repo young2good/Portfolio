@@ -13,7 +13,7 @@ Some parts of my project could't be fully disclosed because of the confidentiali
 
 Projects | Date | Tools | Project Description
 ---|---|---|---
-[Product Launch](https://github.com/young2good/Portfolio)|May. 2018|SQL, Python|This is about my project
+[Product Launch](https://github.com/young2good/manuals)|May. 2018|SQL, Python|This is about my project
 Core Loop | Jan. 2022| SQL, Python | ALL is well
 ## Personal Projects
 Projects | Date | Tools | Project Description
