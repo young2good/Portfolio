@@ -1,8 +1,8 @@
-# Younghyun's Portfolio
+# 🎉Welcome to Younghyun's Portfolio
 
-Welcome to my data portfolio! <br>
-Here, I document a summary of my projects in the data field. <br>
-Some parts of my work project could't be fully disclosed because of the confidentiality obligation with my companies. <br>
+Here you’ll find a collection of my data projects!  
+Some parts of my work projects cannot be fully disclosed due to confidentiality obligations with my companies. <br>
+I hope you find something interesting here.
 
 ---
 ## Table of contents
